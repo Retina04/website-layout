@@ -2,4 +2,14 @@
   border: 3px dashed palegoldenrod;
   height: 100px;
   width: 100px;
+  font-size: 2em;
+  font-weight: bold;
+}
+.container {
+  border: 3px dotted purple;
+  display: flex;
+  justify-content: center;
+  height: 300px;
+  align-items: center;
+  flex-direction: column;
 }
